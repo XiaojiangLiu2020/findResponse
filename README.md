@@ -64,7 +64,7 @@
     *   最下方是**结果展示区域**，用于显示计算出的指标表格。
 
 ![image](https://github.com/XiaojiangLiu2020/findResponse/blob/main/UIscreen_shot.png)  
-*(请在此处替换为您应用的实际截图)*
+
 
 ## 安装与运行
 
@@ -106,7 +106,6 @@
 
 ### 方式二：最终用户 (使用打包好的可执行文件)
 
-如果您的仓库的 "Releases" 页面提供了打包好的 `.exe` 文件，最终用户可以按以下步骤操作。
 
 1.  从项目的 [GitHub Releases](https://github.com/your-username/your-repository-name/releases) 页面下载最新的可执行文件 (例如 `GasSensorAnalysis.exe`)。
 2.  将该文件放置在您希望的任何位置。
