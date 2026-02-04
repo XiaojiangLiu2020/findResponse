@@ -33,6 +33,7 @@
 
 *   **文件兼容性**: 支持上传 `.csv`, `.xls`, `.xlsx` 格式的传感器数据文件。
 *     注意（重要）：输入的文件第一行为表头，第二行及以后为数据；不要包含时间列和时间戳
+* ![image](https://github.com/XiaojiangLiu2020/findResponse/blob/main/csv格式.png)
 *   **交互式可视化**: 使用 Plotly 生成高质量、可缩放、可平移的交互式图表。
 *   **数据预处理**:
     *   按行号自由截取有效数据段。
@@ -62,7 +63,7 @@
     *   图表下方是**标记控制按钮**，用于激活不同的标记模式。
     *   最下方是**结果展示区域**，用于显示计算出的指标表格。
 
-![image](https://user-images.githubusercontent.com/your-username/your-repo/assets/screenshot.png)  
+![image](https://github.com/XiaojiangLiu2020/findResponse/blob/main/UIscreen_shot.png)  
 *(请在此处替换为您应用的实际截图)*
 
 ## 安装与运行
